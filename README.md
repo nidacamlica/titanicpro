@@ -1,6 +1,6 @@
 # titanicpro
 
-
+kaggle link: https://www.kaggle.com/code/nidanuramlca/notebook21f663add4/edit
 
 Titanic: Felaketten Hayatta Kalma Makine Öğrenmesi
 Bu proje, Kaggle’ın Titanic Makine Öğrenmesi: Felaketten Hayatta Kalma yarışmasında kullanılan ünlü Titanic veri setine dayanmaktadır. Projenin amacı, yaş, sınıf, cinsiyet, bilet ücreti gibi çeşitli özellikler kullanılarak bir yolcunun hayatta kalıp kalmayacağını tahmin etmektir. Veri seti, Titanic'teki yolcular hakkında bilgi içerir ve bu analiz, hayatta kalmayı tahmin edebilen bir model oluşturmak için makine öğrenmesi tekniklerini kullanacaktır.
